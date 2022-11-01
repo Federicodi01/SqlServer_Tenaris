@@ -1,2 +1,2 @@
-CREATE DATABASE SqlTenariss
+CREATE DATABASE SqlTenaris
 GO
